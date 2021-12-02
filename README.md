@@ -12,8 +12,8 @@
 ##
   
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Mail-%23E4405?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
+  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href="mailto:luandersonpmendes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> 
+</div> 
   
 ![Snake animation](https://github.com/Luan-P-Mendes/Luan-P-Mendes/blob/output/github-contribution-grid-snake.svg)
