@@ -1,12 +1,12 @@
 # Hello I'm Luan
 
-##### Amante da tacnologia e inovação, sempre buscando novos conhecimentos, aprendendo e evoluindo a cada dia.
+##### Passionate of technology and innovation, always looking for new knowledge, learning and evolving every day.
 
-- 🎂 19 Anos
-- ❤️ Gosto de Tecnologia, Artes, Design, Jogos, Front-end e Back-end.
-- 👨‍🎓 Cursando Engenharia da Computação e Game Design.
+- 🎂 19 year
+- ❤️ Tecnologies, Arts, Design, Games, Front-end & Back-end.
+- 👨‍🎓 Computer Engineering & Game Design.
 
-##
+## _**GitHub Stats**_
 
 <div align="center">
   <a href="https://github.com/MenddesLuan/"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MenddesLuan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -41,7 +41,7 @@
   <a href="https://unity.com/"><img src="https://i.imgur.com/2jOR1ua.png" width="40px" height="40px"/></a>
 </div> 
   
- ## Connect with me
+ ## _**Connect with me**_
                                                                                                               
   <p align="left">
     <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
