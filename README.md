@@ -31,6 +31,7 @@
 <div>
   <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40px" height="40px"/></a>
   <a href="https://nodejs.org/en/"><img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/></a>
+  <a href="https://git-scm.com/"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
   <a href="https://www.adobe.com/br/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40px" height="40px"/></a>
   <a href="https://www.adobe.com/br/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40px" height="40px"/></a>
   <a href="https://www.adobe.com/br/products/xd.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40px" height="40px"/></a>
