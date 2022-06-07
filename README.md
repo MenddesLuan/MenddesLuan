@@ -2,7 +2,7 @@
 
 ##### Passionate of technology and innovation, always looking for new knowledge, learning and evolving every day.
 
-- 🎂 19 year
+- 🎂 20 year
 - ❤️ Tecnologies, Arts, Design, Games, Front-end & Back-end.
 - 👨‍🎓 Computer Engineering & Game Design.
 
